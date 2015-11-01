@@ -10,3 +10,5 @@ Modules used in tests:
 unittest
 requests
 json
+
+More comments you can find in source code.

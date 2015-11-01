@@ -1,0 +1,12 @@
+Hello, 
+Small tips about tests.
+
+How to run tests:
+1) Run install "install.bat", that will install lib "requests" that is used for requests to web-service.
+   (you should be connected to internet)
+2) Run test.py
+
+Modules used in tests:
+unittest
+requests
+json

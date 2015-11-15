@@ -12,3 +12,5 @@ requests
 json
 
 More comments you can find in source code.
+
+Made by Ekaterina Vitiska
